@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: beige;
+}
+
+header{
+    background-color: #1F2A44;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+button{
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 8px;
+    color: aliceblue;
+    background-color: #ffffff00;
+
+}
+button:hover{
+    background-color:#e0f7fa;
+    cursor: pointer;
+    transform: scale(1.1);
+    color: #1F2A44;
+}
+
+img{
+    width: 250px;
+}
+
+.itens{
+    display: flex;
+    margin: 10%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.card{
+    text-align: center;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.1); 
+}
+
+.botao-comprar{
+    background-color: #2E7D60;
+    background-color: blue;
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+}
+
