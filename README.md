@@ -24,7 +24,7 @@ O site simula uma loja virtual com layout simples e responsivo, destacando a lis
 ├── index.html          → Página principal da loja
 └── estilo/
     └── style.css       → Arquivo com os estilos aplicados
-
+ ```
 ---
 
 ## 💡 Destaques do projeto
