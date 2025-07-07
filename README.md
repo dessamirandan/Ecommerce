@@ -61,6 +61,7 @@ Você pode visualizar o projeto localmente assim:
 ```bash
 git clone https://github.com/dessamirandan/Ecommerce.git
 cd Ecommerce
+````
 
 ## 📌 Melhorias Futuras
 
